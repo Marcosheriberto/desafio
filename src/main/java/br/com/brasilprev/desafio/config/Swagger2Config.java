@@ -1,4 +1,4 @@
-package br.com.brasilprev.desafio;
+package br.com.brasilprev.desafio.config;
 
 
 import static springfox.documentation.builders.PathSelectors.regex;
